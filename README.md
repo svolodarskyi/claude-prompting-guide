@@ -1,5 +1,3 @@
-# claude-prompting-guide
-borrowed from claude.ai
 # Claude prompting guide
 
 ## General tips for effective prompting
